@@ -44,15 +44,18 @@ My key tools include Python, SQL, Power BI, Tableau, and Advanced Excel, and I e
 
 ### Zomato Business Performance Analysis
 Tools: Power BI, Excel, DAX  
-Built interactive dashboards analyzing restaurant performance across countries.
+Built interactive dashboards analyzing restaurant performance across countries.  
+🔗 https://github.com/rahulchhabra039/zomato-business-performance-analysis
 
 ### Cardiovascular Disease Analysis & Prediction
 Tools: Python, Scikit-Learn, Tableau  
-Performed exploratory analysis and built a logistic regression model to predict heart disease.
+Performed exploratory analysis and built a logistic regression model to predict heart disease.  
+🔗 https://github.com/rahulchhabra039/Cardiovascular-disease-analysis-python
 
 ### E-Commerce Sales Dashboard
 Tools: Excel, Pivot Tables, VLOOKUP  
-Created an interactive dashboard to analyze sales performance and product trends.
+Created an interactive dashboard to analyze sales performance and product trends.  
+🔗 https://github.com/rahulchhabra039/ecommerce-sales-dashboard-excel
 
 ## Connect With Me
 
