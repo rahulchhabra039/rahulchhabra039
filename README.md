@@ -61,6 +61,16 @@ Created an interactive dashboard to analyze sales performance and product trends
 Download my CV:
 [Download Resume](https://github.com/rahulchhabra039/rahulchhabra039/blob/main/Rahul_Chhabra_Data_Analyst_CV.pdf)
 
+## Certifications
+
+### Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+Earned: February 2026  
+[View Certificate](https://github.com/rahulchhabra039/rahulchhabra039/blob/main/Microsoft-PL300-PowerBI-Certificate.pdf)
+
+### Data Analyst Master's Program – Simplilearn
+Completed: January 2026  
+[View Certificate](https://github.com/rahulchhabra039/rahulchhabra039/blob/main/Simplilearn-Data-Analyst-Certificate.pdf)
+
 ## Connect With Me
 
 LinkedIn:  
