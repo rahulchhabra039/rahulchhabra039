@@ -57,6 +57,10 @@ Tools: Excel, Pivot Tables, VLOOKUP
 Created an interactive dashboard to analyze sales performance and product trends.  
 🔗 https://github.com/rahulchhabra039/ecommerce-sales-dashboard-excel
 
+## Resume
+Download my CV:
+[Download Resume](https://github.com/rahulchhabra039/rahulchhabra039/blob/main/Rahul_Chhabra_Data_Analyst_CV.pdf)
+
 ## Connect With Me
 
 LinkedIn:  
