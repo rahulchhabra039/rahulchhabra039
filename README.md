@@ -32,14 +32,6 @@ My key tools include Python, SQL, Power BI, Tableau, and Advanced Excel, and I e
 - WEKA
 - Machine Learning Basics
 
-## Certifications
-
-- Microsoft Power BI Data Analyst Certification (PL-300)
-- Master Certificate in Data Analytics – Simplilearn
-- SQL Certification
-- Tableau Training
-- Python for Data Analytics Training
-
 ## Portfolio Projects
 
 ### Zomato Business Performance Analysis
