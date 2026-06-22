@@ -34,6 +34,19 @@ My key tools include Python, SQL, Power BI, Tableau, and Advanced Excel, and I e
 
 ## Portfolio Projects
 
+### UK Supermarket Inventory Risk Analytics
+
+Tools: Azure Blob Storage, Microsoft Fabric, PySpark, SQL, Power BI, DAX
+Built an end-to-end inventory and supplier-risk analytics project. The data was moved from Azure Blob Storage into Microsoft Fabric, cleaned with PySpark, analysed using SQL and presented in a three-page Power BI report.
+🔗 https://github.com/rahulchhabra039/uk-supermarket-inventory-risk-analytics
+
+### AdventureWorks SQL Data Warehouse & Power BI
+
+Tools: SQL Server, SSMS, Power BI, Power Query, DAX
+Created a SQL Server data warehouse using a star schema and built a three-page Power BI report covering sales, products, customers and territories.
+🔗 https://github.com/rahulchhabra039/adventureworks-sql-data-warehouse-powerbi
+
+
 ### Zomato Business Performance Analysis
 Tools: Power BI, Excel, DAX  
 Built interactive dashboards analyzing restaurant performance across countries.  
