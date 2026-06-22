@@ -53,17 +53,17 @@ Created a SQL Server data warehouse using a star schema and built a three-page P
 
 
 ### Zomato Business Performance Analysis
-Tools: Power BI, Excel, DAX  
+**Tools:** Power BI, Excel, DAX  
 Built interactive dashboards analyzing restaurant performance across countries.  
 🔗 https://github.com/rahulchhabra039/zomato-business-performance-analysis
 
 ### Cardiovascular Disease Analysis & Prediction
-Tools: Python, Scikit-Learn, Tableau  
+**Tools:** Python, Scikit-Learn, Tableau  
 Performed exploratory analysis and built a logistic regression model to predict heart disease.  
 🔗 https://github.com/rahulchhabra039/Cardiovascular-disease-analysis-python
 
 ### E-Commerce Sales Dashboard
-Tools: Excel, Pivot Tables, VLOOKUP  
+**Tools:** Excel, Pivot Tables, VLOOKUP  
 Created an interactive dashboard to analyze sales performance and product trends.  
 🔗 https://github.com/rahulchhabra039/ecommerce-sales-dashboard-excel
 
