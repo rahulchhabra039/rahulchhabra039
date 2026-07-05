@@ -34,6 +34,15 @@ My key tools include Python, SQL, Power BI, Tableau, and Advanced Excel, and I e
 
 ## Portfolio Projects
 
+### NHS Elective Care Performance & Backlog Recovery Analytics
+
+**Tools:** Python, SQL Server, Power BI, Power Query, DAX
+
+Built an end-to-end healthcare analytics project using NHS elective care data. The project combines monthly RTT files using Python, builds a SQL Server star schema, and presents a four-page Power BI report covering waiting lists, 18-week performance, 52+ week waits, provider pressure, specialty pressure and backlog recovery scenarios.
+
+🔗 https://github.com/rahulchhabra039/nhs-elective-care-analytics
+
+
 ### UK Supermarket Inventory Risk Analytics
 
 **Tools:** Azure Blob Storage, Microsoft Fabric, PySpark, SQL, Power BI, DAX
