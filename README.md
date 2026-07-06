@@ -59,17 +59,15 @@ Created a SQL Server data warehouse using a star schema and built a three-page P
 
 🔗 https://github.com/rahulchhabra039/adventureworks-sql-data-warehouse-powerbi
 
-
+### Cardiovascular Disease Analysis & Prediction
+**Tools:** Python, Scikit-Learn, Tableau  
+Performed exploratory analysis and built a logistic regression model to predict heart disease.  
+🔗 https://github.com/rahulchhabra039/Cardiovascular-disease-analysis-python
 
 ### Zomato Business Performance Analysis
 **Tools:** Power BI, Excel, DAX  
 Built interactive dashboards analyzing restaurant performance across countries.  
 🔗 https://github.com/rahulchhabra039/zomato-business-performance-analysis
-
-### Cardiovascular Disease Analysis & Prediction
-**Tools:** Python, Scikit-Learn, Tableau  
-Performed exploratory analysis and built a logistic regression model to predict heart disease.  
-🔗 https://github.com/rahulchhabra039/Cardiovascular-disease-analysis-python
 
 ### E-Commerce Sales Dashboard
 **Tools:** Excel, Pivot Tables, VLOOKUP  
