@@ -4,7 +4,7 @@ Hi, I'm Rahul Chhabra, a Data Analyst with a strong academic background in Busin
 
 I completed my MSc in Business Analytics from Swansea University and gained practical industry experience as a Junior Data Analyst Intern at Fortray Global Services Ltd, where I worked with datasets exceeding 1 million records.
 
-My key tools include Python, SQL, Power BI, Tableau, and Advanced Excel, and I enjoy transforming complex data into meaningful insights that help organizations make data-driven decisions.
+My key tools include Power BI, SQL, Python, Databricks, Microsoft Fabric, PySpark and Advanced Excel. I enjoy transforming complex data into meaningful insights that support better business decisions.
 
 ## About Me
 
