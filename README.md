@@ -93,7 +93,7 @@ Created an interactive dashboard to analyze sales performance and product trends
 
 ## Resume
 Download my CV:
-[Download Resume](https://github.com/rahulchhabra039/rahulchhabra039/blob/main/Rahul_Chhabra_Data_Analyst_CV.pdf)
+[Download Resume](Rahul_Chhabra_CV.pdf)
 
 ## Certifications
 
