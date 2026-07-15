@@ -43,6 +43,15 @@ Built an end-to-end healthcare analytics project using NHS elective care data. T
 🔗 https://github.com/rahulchhabra039/nhs-elective-care-analytics
 
 
+### UK E-commerce Customer Retention & Revenue Growth Analytics
+
+**Tools:** Databricks, PySpark, Databricks SQL, Delta Tables, AI/BI Dashboard
+
+Built an end-to-end customer retention and revenue analytics solution using a Bronze, Silver and Gold architecture in Databricks. The project includes PySpark data preparation, SQL-based revenue and customer analysis, RFM segmentation, cohort retention analysis, product and country performance, and an interactive Databricks AI/BI dashboard.
+
+🔗 https://github.com/rahulchhabra039/uk-ecommerce-customer-retention-revenue-growth-analytics
+
+
 ### UK Supermarket Inventory Risk Analytics
 
 **Tools:** Azure Blob Storage, Microsoft Fabric, PySpark, SQL, Power BI, DAX
