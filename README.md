@@ -12,7 +12,7 @@ My key tools include Power BI, SQL, Python, Databricks, Microsoft Fabric, PySpar
 - BTech Computer Science
 - Junior Data Analyst Intern – Fortray Global Services Ltd
 - Experience working with datasets exceeding 1M+ records
-- Interested in Data Analytics, Business Intelligence and Data Science
+- Focused on Data Analytics, Business Intelligence, Customer Analytics and Cloud Analytics
 
 ## Technical Skills
 
