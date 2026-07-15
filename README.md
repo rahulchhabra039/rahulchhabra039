@@ -27,6 +27,15 @@ My key tools include Python, SQL, Power BI, Tableau, and Advanced Excel, and I e
 - Power Query
 - DAX
 
+  **Cloud & Data Platforms**
+
+- Databricks
+- Microsoft Fabric
+- Azure Blob Storage
+- Delta Lake
+- PySpark
+- Databricks SQL
+
 **Other Tools**
 - SPSS
 - WEKA
